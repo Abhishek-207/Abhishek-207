@@ -110,17 +110,16 @@ Co-founder @StartnShine, freelancer, Web-developer, Flutter Developer and a UI/U
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek-207&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
-
+ -->
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hws745ktltjnjxsmlt2m2liocm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
 
 <br/>  
