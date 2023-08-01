@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Abhishek Singh, 
-Co-founder @StartnShine, freelancer, Web-developer, Flutter Developer and a UI/UX designer.👨‍💻 </div>  
+GDSC lead @ZHCET, Co-founder @StartnShine, Freelancer, Web-developer, Flutter Developer and a UI/UX designer.👨‍💻 </div>  
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-207.github.io/Abhishek-Singh_portfolio-Website/)
   
 
