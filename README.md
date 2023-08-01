@@ -4,7 +4,7 @@
   
 
 ### <div align="center">I'm Abhishek Singh, 
-GDSC lead @ZHCET, Co-founder @StartnShine, Freelancer, Web-developer, Flutter Developer and a UI/UX designer.👨‍💻 </div>  
+GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter Developer | UI/UX designer.👨‍💻 </div>  
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-207.github.io/Abhishek-Singh_portfolio-Website/)
   
 
@@ -15,7 +15,7 @@ GDSC lead @ZHCET, Co-founder @StartnShine, Freelancer, Web-developer, Flutter De
 
 
 
-- ❓ Ask me about anything related to Web dev, App Dev, UI/UX, and starting your something of your own.  
+- ❓ Ask me about anything related to Web dev, App Dev, UI/UX, and Entrepreneurship.
   
 
 - ⚡ Fun fact: I earned my first bucks at age of 11 by selling lotus seeds.😂  
