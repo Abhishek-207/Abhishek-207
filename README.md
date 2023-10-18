@@ -86,6 +86,9 @@ GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter
 
 <br/>  
 
+## 🛒 Apps on Store
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en) 
+
 
 ## Connect with me  
 <div align="center">
@@ -101,7 +104,7 @@ GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21238401/abhishek-singh" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-singh2073" target="_blank">
+<a href="https://www.linkedin.com/in/abhishek-singh2073/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
