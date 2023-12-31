@@ -8,7 +8,7 @@ GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-207.github.io/Abhishek-Singh_portfolio-Website/)
   
 
-- 🔭 I’m currently working on [this project.](https://abhishek-207.github.io/Abhishek-Singh_portfolio-Website/)  
+- 🔭 I’m currently working on [this project.](https://stickideas.com/)  
   
 
 - 🌱 I’m currently learning Web Development & App Development
