@@ -27,7 +27,7 @@ GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter
 <br/>  
 
 
-## My Skill Set  
+## My Interests 
 <table><tr><td valign="top" width="33%">
 
 
