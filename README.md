@@ -4,7 +4,8 @@
   
 
 ### <div align="center">I'm Abhishek Singh, 
-GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter Developer | UI/UX designer.👨‍💻 </div>  
+Product Devloper [**@Stick**](https://stickapp.club/)
+ | GDSC lead @ZHCET| Co-founder @StartnShine | Freelancer | Web-developer | Flutter Developer | UI/UX designer.👨‍💻 </div>  
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishekpro.dev/)
   
 
