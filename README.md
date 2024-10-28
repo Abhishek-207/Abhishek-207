@@ -4,13 +4,14 @@
   
 
 ### <div align="center">I'm Abhishek Singh, 
-Product Devloper [**@Stick**](https://stickapp.club/)
- | GDSC lead [**@ZHCET**](https://gdsc.community.dev/zakir-husain-college-of-engineering-and-technology-aligarh/)
-| Co-founder [**@Start N Shine**](https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en) | Freelancer | Web-developer | Flutter Developer | UI/UX designer.👨‍💻 </div>  
+SWE [**@Otohire**](https://otohire.com/)
+ | Ex-Google DSC Lead [**@ZHCET**](https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/)
+| Co-founder [**@Start N Shine**](https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en)
+Ex-Frontend Developer [**@Stick**](https://stickapp.club/)| Freelancer | Web-developer | Flutter Developer | UI/UX designer.👨‍💻 </div>  
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishekpro.dev/)
   
 
-- 🔭 I’m currently working on [this project.](https://stickapp.club/)  
+- 🔭 I’m currently working on [this project.](https://otohire.com/)  
   
 
 - 🌱 I’m currently learning Web Development & App Development
