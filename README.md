@@ -11,7 +11,7 @@ Ex-Frontend Developer [**@Stick**](https://stickapp.club/) | Freelancer | Web-de
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-pro.dev/)
   
 
-- 🔭 I’m currently working on [this project.](https://mindmatrixgatescore.netlify.app/)  
+- 🔭 I’m currently working on [this project.](https://gaterankpredictor.netlify.app/)  
   
 
 - 🌱 I’m currently learning Web Development & App Development
