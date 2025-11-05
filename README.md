@@ -9,7 +9,7 @@ Software Developer [**@ERPICA**](https://erpica.in/) |
 Ex-SWE [**@Otohire**](https://otohire.com/)
  | Ex-Google DSC Lead [**@ZHCET**](https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/)
 | Co-founder [**@Start N Shine**](https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en) |
-Ex-Frontend Developer [**@Stick**](https://stickapp.club/) | Freelancer | Web-developer | Flutter Developer | UI/UX designer.👨‍💻 </div>  
+Ex-Frontend Developer [**@Stick**](https://stickapp.club/) | Freelancer | Softwarer Developer  | Product builder.👨‍💻 </div>  
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-pro.dev/)
   
 
