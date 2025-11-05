@@ -4,6 +4,8 @@
   
 
 ### <div align="center">I'm Abhishek Singh, 
+
+Software Developer [**@ERPICA**](https://erpica.in/) |
 Ex-SWE [**@Otohire**](https://otohire.com/)
  | Ex-Google DSC Lead [**@ZHCET**](https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/)
 | Co-founder [**@Start N Shine**](https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en) |
@@ -11,20 +13,16 @@ Ex-Frontend Developer [**@Stick**](https://stickapp.club/) | Freelancer | Web-de
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-pro.dev/)
   
 
-- 🔭 I’m currently working on [this project.](https://physixfever.com/)  
-  
-
-- 🌱 I’m currently learning Web Development & App Development
+- 🔭 I’m currently working on [this project.](https://erpica.in/)  
 
 
-
-- ❓ Ask me about anything related to Web dev, App Dev, UI/UX, and Entrepreneurship.
+- ❓ Ask me about anything related to Product development, Softwarer development and Entrepreneurship.
   
 
 - ⚡ Fun fact: I earned my first bucks at age of 11 by selling lotus seeds.😂  
   
 
-- 📫 How to reach me lucifer2072003@gmail.com  
+- 📫 How to reach me abhisheksinghpro007@gmail.com  
   
 
 <br/>  
