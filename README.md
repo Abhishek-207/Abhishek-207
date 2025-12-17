@@ -13,13 +13,13 @@ Ex-Frontend Developer [**@Stick**](https://stickapp.club/) | Freelancer | Softwa
    - 🙍‍♂ This is my Personal portfolio [Website.](https://abhishek-pro.dev/)
   
 
-- 🔭 I’m currently working on [this project.](https://erpica.in/)  
+- 🔭 I’m currently working on [this project.](https://github.com/Abhishek-207/ISMS-RR-Assignment)  
 
 
-- ❓ Ask me about anything related to Product development, Softwarer development and Entrepreneurship.
+- ❓ Ask me about anything related to Product development, Software development and Entrepreneurship.
   
 
-- ⚡ Fun fact: I earned my first bucks at age of 11 by selling lotus seeds.😂  
+- ⚡ Fun fact: I earned my first bucks at age of 11, by selling lotus seeds to my classmates.😂  
   
 
 - 📫 How to reach me abhisheksinghpro007@gmail.com  
