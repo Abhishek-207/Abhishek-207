@@ -10,7 +10,7 @@
   Ex-SWE <a href="https://otohire.com/">@Otohire</a> ·
   Ex-GDSC Lead <a href="https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/">@ZHCET</a><br/>
   Co-founder <a href="https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en">@Start N Shine</a> ·
-  Ex-Frontend Developer <a href="https://stickapp.club/">@Stick</a><br/>
+  Ex-Fonding Developer <a href="https://stickapp.club/">@Stick</a><br/>
   <b>Product-Oriented Software Engineer · SaaS Builder · Freelancer</b>
 </p>
 
@@ -90,10 +90,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" style="margin:10px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="48" style="margin:10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48" style="margin:10px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48" style="margin:10px"/>
 </div>
 
-<sub>AWS (EC2, S3, IAM · Cloud deployment & cost optimization)</sub>
+
 
 </td>
 </tr>
