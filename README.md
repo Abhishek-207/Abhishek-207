@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://abhishek-pro.dev/">Portfolio</a> ·
+  🌐 <a href="https://abhishekpro.in/">Portfolio</a> ·
   💼 <a href="https://www.linkedin.com/in/abhishek-singh2073/">LinkedIn</a> ·
   🧑‍💻 <a href="https://github.com/Abhishek-207">GitHub</a>
 </p>
