@@ -6,10 +6,11 @@
 <h2 align="center">Hi, I'm Abhishek Singh 👋</h2>
 
 <p align="center">
-  Ex-Full-Stack Developer <a href="https://erpica.in/">@ERPICA</a> ·
+  Full-Stack Developer <a href="https://www.ruralhandmade.com/">@Rural Handmade</a> ·
+  Ex-Software Developer <a href="https://erpica.in/">@ERPICA</a> ·
   Ex-SWE <a href="https://otohire.com/">@Otohire</a> ·
   Ex-GDSC Lead <a href="https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/">@ZHCET</a><br/>
-  Co-founder <a href="https://play.google.com/store/apps/details?id=com.mycompany.startnshine&hl=en">@Start N Shine</a> ·
+  Co-founder <a href="https://www.linkedin.com/company/startnshine/posts/?feedView=all">@Start N Shine</a> ·
   Ex-Fonding Developer <a href="https://stickapp.club/">@Stick</a><br/>
   <b>Product-Oriented Software Engineer · SaaS Builder · Freelancer</b>
 </p>
