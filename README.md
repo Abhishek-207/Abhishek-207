@@ -1,3 +1,4 @@
+`
 <!-- ================= HERO ================= -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/98517363/227380175-923d450b-d608-45fd-8d23-ccc1d26eb83b.gif" width="45%" />
@@ -6,13 +7,12 @@
 <h2 align="center">Hi, I'm Abhishek Singh 👋</h2>
 
 <p align="center">
-  Full-Stack Developer <a href="https://www.ruralhandmade.com/">@Rural Handmade</a> ·
-  Ex-Software Developer <a href="https://erpica.in/">@ERPICA</a> ·
-  Ex-SWE <a href="https://otohire.com/">@Otohire</a> ·
-  Ex-GDSC Lead <a href="https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/">@ZHCET</a><br/>
+  Associate Product Manager <a href="https://coinedone.com/">@CoinedOne</a> ·
+  Ex-Software Developer <a href="https://www.erpica.in/">@Temflo Systems Pvt. Ltd</a><br/>
   Co-founder <a href="https://www.linkedin.com/company/startnshine/posts/?feedView=all">@Start N Shine</a> ·
-  Ex-Fonding Developer <a href="https://stickapp.club/">@Stick</a><br/>
-  <b>Product-Oriented Software Engineer · SaaS Builder · Freelancer</b>
+  Ex-Founding Developer <a href="https://stickapp.club/">@Stick</a> ·
+  Ex-GDSC Lead <a href="https://www.linkedin.com/company/gdgc-zhcet/posts/">@ZHCET AMU</a><br/>
+  <b>Product & Engineering · AI-powered Workflows · SaaS & ERP Systems</b>
 </p>
 
 <p align="center">
@@ -22,6 +22,7 @@
 </p>
 
 <br/>
+
 
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
